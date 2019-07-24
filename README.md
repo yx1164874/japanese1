@@ -1,6 +1,6 @@
 # japanese1
 新编日语第一册
-##chapter１
+## chapter１
 あ
 あ い う え お
 か き く け こ が ぎ ぐ げ ご
