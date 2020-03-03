@@ -1,4 +1,20 @@
 {
-    
-  
+    "window.zoomLevel": 1,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.shell.osx": "/bin/bash",
+    "editor.suggestSelection": "first",
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+        "editor.fontFamily": "'Fira Code Retina','Sarasa Mono SC'", 
+    },
+    "markdown.preview.fontFamily": "'Fira Code Retina', 'Sarasa Mono SC'"
 }
